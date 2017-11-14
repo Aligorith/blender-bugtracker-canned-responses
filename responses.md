@@ -7,8 +7,8 @@ Thanks for the report, but this add-on is not developed by Blender, please repor
 
 ---- DESIGN ISSUE
 
-While its disputable how this should work,
-its behaving as intended and not an error in the code.
+While it's disputable how this should work,
+it's behaving as intended and not an error in the code.
 
 Closing.
 
@@ -105,10 +105,10 @@ Could you see if this is causing the problem?
 
 ---- OPENGL RANDOM ERROR
 
-Its highly likely that this bug is specific to your hardware/driver configuration.
+It's highly likely that this bug is specific to your hardware/driver configuration.
 These kinds of display issues are often caused by OpenGL driver bugs.
 
-While its possible a software error in Blender, its worth checking if this functions correctly...
+While it's possible a software error in Blender, it's worth checking if this functions correctly...
 
 - After upgrading graphics card drivers.
 - On a different system (with different hardware/drivers).
